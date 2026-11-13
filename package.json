@@ -20,7 +20,8 @@
   ],
   "files": [
     "index.json",
-    "map.js"
+    "map.js",
+    "evals.json"
   ],
   "main": "./index.json",
   "scripts": {},
